@@ -12,4 +12,5 @@ This is a program designed to scan your files for virus and security threats.
 
 ## Run File
 
-Run `python3 file_scanner.py` in a terminal if you have Mac or Linux.
+- Run `python file_scanner.py` in a terminal if you have Windows.
+- Run `python3 file_scanner.py` in a terminal if you have Mac or Linux.
